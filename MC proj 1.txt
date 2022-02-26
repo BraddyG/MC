@@ -1,0 +1,86 @@
+ <html>
+<head>
+<title> RESUME </title>
+
+<body>
+<center>
+<h1>
+<u> MY RESUME </u>
+</h1>
+</center>
+
+<h3> G BHARADWAJA SREEKAR </h3>
+<h3> Goal: ENTREPRENEUR </h3>
+<h3><address> Begumpet<br>Hyderabad </address>
+<a href="mailto:braddyspare@gmail.com"> Email: Braddyspare@gmail.com </a>
+
+<hr>
+
+<center>
+<h2>
+<u> CAREER GOALS </u>
+</h2>
+<h3>
+Professional Summary</h3>
+ 
+
+Motivational business manager with 6+ years of experience. Skilled in coaching, budgeting, and leadership. Seeking to raise revenue, boost efficiency, and lower costs at Greener Reentry Services. At Tafalla West Inc., grew clientele 25% in 20 months through four-part strategy of service streamlining, sales training, outreach, and marketing. Increased revenue 15% per year through direct cold call campaign.
+
+ 
+
+<h3>Work Experience</h3>
+ 
+
+CEO and Business Manager
+<br>
+
+Ran a business with $1.1M in annual revenue and 25 employees at a profit for 5 years.
+Increased clientele by 25% in 20 months through four-part strategy.
+Streamlined service offering by surveying 150 top clients, gathering feedback, and recrafting product list. Increased customer satisfaction survey scores 28%.
+Created and conducted sales training program that increased average revenue of 15 sales reps by 22%.
+Implemented a cold calling campaign that raised revenue 15% per year.
+ 
+
+<h4>Retail Manager</h4>
+New England Outdoor Center
+
+Feb 2011–Jan 2013
+
+Increased profit for a summer retail store from $48,000 per year to $78,000 per year.
+Trained 10 retail employees in sales and customer service best practices.
+ 
+
+<h3>Education</h3>
+ 
+
+2007–2011 CU Denver Business School
+
+Bachelor of Science in Business Administration
+
+Pursued a passion for business management coursework.
+Vice President of Student Government, 2010–2011.
+ 
+
+<h3>Skills</h3>
+ 
+
+Technical Skills: Computer skills, training, hiring, business knowledge, marketing
+Soft Skills: Leadership, collaboration, communication, interpersonal skills
+ 
+
+<h3>Activities</h3>
+ 
+
+Volunteer Coordinator, BSA Denver Area Council
+Avid kite surfer
+
+<hr>
+
+<h4> G BHARADWAJA SREEKAR </h3>
+<h4> Goal: ENTREPRENEUR </h3>
+<h4><address> Begumpet<br>Hyderabad </address>
+<a href="mailto:braddyspare@gmail.com"> Email: Braddyspare@gmail.com </a>
+
+</body>
+</html>
+<hr>
